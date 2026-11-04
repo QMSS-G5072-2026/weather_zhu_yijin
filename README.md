@@ -1,5 +1,7 @@
 # weather_yz5410
 
+[![CI](https://github.com/QMSS-G5072-2026/weather_zhu_yijin/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/QMSS-G5072-2026/weather_zhu_yijin/actions/workflows/ci.yml)
+
 A Python package for converting temperatures, summarizing readings, and cleaning weather data.
 
 ## Installation
